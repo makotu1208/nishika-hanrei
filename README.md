@@ -1,3 +1,3 @@
 # nishika-hanrei
 - samplecodeとか動かして学ぶ用
-- 環境はawsで動かすつもりです
+- 環境はプライベートで使っているawsで動かした
